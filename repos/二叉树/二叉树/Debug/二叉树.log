@@ -1,0 +1,4 @@
+﻿  二叉树.cpp
+c:\users\dell\source\repos\二叉树\二叉树\二叉树.cpp(68): warning C4101: “arr”: 未引用的局部变量
+c:\users\dell\source\repos\二叉树\二叉树\二叉树.cpp(68): warning C4101: “p”: 未引用的局部变量
+  二叉树.vcxproj -> C:\Users\DELL\source\repos\二叉树\Debug\二叉树.exe

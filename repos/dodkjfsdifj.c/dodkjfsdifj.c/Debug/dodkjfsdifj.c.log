@@ -1,0 +1,8 @@
+﻿  dodkjfsdifj.c.cpp
+c:\users\dell\source\repos\dodkjfsdifj.c\dodkjfsdifj.c\dodkjfsdifj.c.cpp(25): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int *”
+  c:\users\dell\source\repos\dodkjfsdifj.c\dodkjfsdifj.c\dodkjfsdifj.c.cpp(25): note: 此参数用作缓冲区大小
+c:\users\dell\source\repos\dodkjfsdifj.c\dodkjfsdifj.c\dodkjfsdifj.c.cpp(25): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\dell\source\repos\dodkjfsdifj.c\dodkjfsdifj.c\dodkjfsdifj.c.cpp(25): note: 占位符和其参数预计 6 可变参数，但提供的却是 5 参数
+  c:\users\dell\source\repos\dodkjfsdifj.c\dodkjfsdifj.c\dodkjfsdifj.c.cpp(25): note: 缺失的可变参数 6 为格式字符串“%d”所需
+c:\users\dell\source\repos\dodkjfsdifj.c\dodkjfsdifj.c\dodkjfsdifj.c.cpp(31): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 6 拥有了类型“main::<unnamed-type-student>”
+  dodkjfsdifj.c.vcxproj -> C:\Users\DELL\source\repos\dodkjfsdifj.c\Debug\dodkjfsdifj.c.exe

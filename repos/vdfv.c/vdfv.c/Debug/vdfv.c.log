@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  vdfv.c.cpp
+c:\users\dell\source\repos\vdfv.c\vdfv.c\vdfv.c.cpp(8): error C3481: “i”: 未找到 lambda 捕获变量
+c:\users\dell\source\repos\vdfv.c\vdfv.c\vdfv.c.cpp(8): error C3260: “;”: 跳过 lambda 主体之前的意外标记
+c:\users\dell\source\repos\vdfv.c\vdfv.c\vdfv.c.cpp(18): fatal error C1903: 无法从以前的错误中恢复；正在停止编译

@@ -1,0 +1,19 @@
+﻿  学籍.c.cpp
+c:\users\dell\source\repos\学籍.c\学籍.c\学籍.c.cpp(43): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\dell\source\repos\学籍.c\学籍.c\学籍.c.cpp(43): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\dell\source\repos\学籍.c\学籍.c\学籍.c.cpp(43): note: 缺失的可变参数 2 为格式字符串“%s”所需
+  c:\users\dell\source\repos\学籍.c\学籍.c\学籍.c.cpp(43): note: 此参数用作缓冲区大小
+c:\users\dell\source\repos\学籍.c\学籍.c\学籍.c.cpp(53): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\dell\source\repos\学籍.c\学籍.c\学籍.c.cpp(56): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\dell\source\repos\学籍.c\学籍.c\学籍.c.cpp(56): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\dell\source\repos\学籍.c\学籍.c\学籍.c.cpp(56): note: 缺失的可变参数 2 为格式字符串“%s”所需
+  c:\users\dell\source\repos\学籍.c\学籍.c\学籍.c.cpp(56): note: 此参数用作缓冲区大小
+c:\users\dell\source\repos\学籍.c\学籍.c\学籍.c.cpp(59): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\dell\source\repos\学籍.c\学籍.c\学籍.c.cpp(59): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\dell\source\repos\学籍.c\学籍.c\学籍.c.cpp(59): note: 缺失的可变参数 2 为格式字符串“%s”所需
+  c:\users\dell\source\repos\学籍.c\学籍.c\学籍.c.cpp(59): note: 此参数用作缓冲区大小
+c:\users\dell\source\repos\学籍.c\学籍.c\学籍.c.cpp(64): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\dell\source\repos\学籍.c\学籍.c\学籍.c.cpp(64): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\dell\source\repos\学籍.c\学籍.c\学籍.c.cpp(64): note: 缺失的可变参数 2 为格式字符串“%s”所需
+  c:\users\dell\source\repos\学籍.c\学籍.c\学籍.c.cpp(64): note: 此参数用作缓冲区大小

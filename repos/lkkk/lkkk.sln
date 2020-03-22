@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lkkk", "lkkk\lkkk.pyproj", "{B2BD82C2-5507-4E51-8F63-F79C27F48973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2BD82C2-5507-4E51-8F63-F79C27F48973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BD82C2-5507-4E51-8F63-F79C27F48973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38D5A64F-7997-41FA-ACA4-8CABF0EF946C}
+	EndGlobalSection
+EndGlobal

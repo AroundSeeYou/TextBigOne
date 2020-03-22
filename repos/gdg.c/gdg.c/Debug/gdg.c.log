@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  gdg.c.cpp
+c:\users\dell\source\repos\gdg.c\gdg.c\gdg.c.cpp(22): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\dell\source\repos\gdg.c\gdg.c\gdg.c.cpp(22): note: 占位符和其参数预计 3 可变参数，但提供的却是 2 参数
+  c:\users\dell\source\repos\gdg.c\gdg.c\gdg.c.cpp(22): note: 缺失的可变参数 3 为格式字符串“%s”所需
+  c:\users\dell\source\repos\gdg.c\gdg.c\gdg.c.cpp(22): note: 此参数用作缓冲区大小
+c:\users\dell\source\repos\gdg.c\gdg.c\gdg.c.cpp(30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\dell\source\repos\gdg.c\gdg.c\gdg.c.cpp(37): warning C4101: “j”: 未引用的局部变量
+  gdg.c.vcxproj -> C:\Users\DELL\source\repos\gdg.c\Debug\gdg.c.exe

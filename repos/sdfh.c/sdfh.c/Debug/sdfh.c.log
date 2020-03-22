@@ -1,0 +1,9 @@
+﻿  sdfh.c.cpp
+c:\users\dell\source\repos\sdfh.c\sdfh.c\sdfh.c.cpp(3): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+c:\users\dell\source\repos\sdfh.c\sdfh.c\sdfh.c.cpp(27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\dell\source\repos\sdfh.c\sdfh.c\sdfh.c.cpp(19): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\dell\source\repos\sdfh.c\sdfh.c\sdfh.c.cpp(19): note: 占位符和其参数预计 3 可变参数，但提供的却是 2 参数
+  c:\users\dell\source\repos\sdfh.c\sdfh.c\sdfh.c.cpp(19): note: 缺失的可变参数 3 为格式字符串“%s”所需
+  c:\users\dell\source\repos\sdfh.c\sdfh.c\sdfh.c.cpp(19): note: 此参数用作缓冲区大小
+c:\users\dell\source\repos\sdfh.c\sdfh.c\sdfh.c.cpp(34): warning C4101: “j”: 未引用的局部变量
+LINK : fatal error LNK1168: 无法打开 C:\Users\DELL\source\repos\sdfh.c\Debug\sdfh.c.exe 进行写入
